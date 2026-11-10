@@ -5,13 +5,11 @@ This repository contains the supplementary notebook code for my paper:
 **Machine Learning to Predict Digital Frustration from Clickstream Data**
 arXiv: https://arxiv.org/abs/2512.20438
 
-The paper is currently under review at **SN Computer Science**.
-
 ## Repository Content
 
 * `supplementary_material_notebook.ipynb`
   This notebook contains the main code used for preprocessing the clickstream data, creating frustration labels, feature engineering, training machine learning models, and evaluating the results.
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/digital-experience-research/clickstream-frustration-prediction/blob/main/supplementary_material_notebook.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jibin10/clickstream-frustration-prediction/blob/main/supplementary_material_notebook.ipynb)
 
 ## About the Work
 
