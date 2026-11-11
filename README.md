@@ -39,13 +39,15 @@ This work uses the public Coveo e-commerce clickstream dataset.
 
 Dataset source: https://www.coveo.com/blog/dataset-release-intent-prediction-ecommerce/
 
-The dataset is not included in this repository. Anyone using this code should download the dataset from the original Coveo source and follow their dataset terms and conditions. Link
+The dataset is not included in this repository. Anyone using this code should download the dataset from the original Coveo source and follow their dataset terms and conditions.
 
 ## Code Access and Use
 
-This code is shared for academic review and reproducibility purposes upon reasonable request.
+This project is open source under the MIT License. Anyone is welcome to use, modify, and share the code for research, education, or other purposes.
 
-Please do not redistribute, reuse, or modify the code for other purposes without permission.
+If this work is useful for academic research, citation of the original paper is appreciated:
+
+https://arxiv.org/abs/2512.20438
 
 ## Contact
 
